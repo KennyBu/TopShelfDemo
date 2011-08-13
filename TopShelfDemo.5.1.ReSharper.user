@@ -1,0 +1,41 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2FBDD2AB-74C4-43AA-853B-8FFF043211B5/f:app.config" caret="0" fromTop="0" />
+      <File id="2FBDD2AB-74C4-43AA-853B-8FFF043211B5/f:TownCrier.cs" caret="110" fromTop="6" />
+      <File id="2FBDD2AB-74C4-43AA-853B-8FFF043211B5/f:Program.cs" caret="979" fromTop="26" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2FBDD2AB-74C4-43AA-853B-8FFF043211B5/f:TownCrier.cs" caret="397" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="FileStyleUriParser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Millisecond" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

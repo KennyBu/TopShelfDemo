@@ -1,0 +1,11 @@
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\TopShelfDemo.exe
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\TopShelfDemo.pdb
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\obj\x86\Debug\TopShelfDemo.exe
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\obj\x86\Debug\TopShelfDemo.pdb
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\TopShelfDemo.exe.config
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\log4net.dll
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\Topshelf.dll
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\log4net.xml
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\Topshelf.pdb
+C:\Users\Ken\repos\home\TopShelfDemo\TopShelfDemo\bin\Debug\Topshelf.xml
